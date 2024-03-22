@@ -10,7 +10,9 @@ Teachers:
 
 
 # Description
-#### Hi, Copied form Nick.
+#### Hi, Nick is really nice!!
+
+
 
 In this **hands-on** workshop, we will explore the Python and Pandas data analysis ecosystem in depth, applying them to data analysis of a real-world electrophysiology neuroscience experiment! Collaboration sessions see participants working in small teams, collaborating to learn new skills and share their perspectives in a diverse environment.  Libraries like Numpy, XArray, Seaborn, Pingouin, and Matplotlib will help span the data analysis path between processed neuroscience data and final results.
 

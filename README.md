@@ -8,9 +8,12 @@ Teachers:
   - Dr. Nicholas Del Grosso, iBehave Open Technology Support
   - Dr. Mohammad Bashiri, iBehave Open Technology Support
 
-## Description
 
-In this hands-on workshop, we will explore the Python and Pandas data analysis ecosystem in depth, applying them to data analysis of a real-world electrophysiology neuroscience experiment! Collaboration sessions see participants working in small teams, collaborating to learn new skills and share their perspectives in a diverse environment.  Libraries like Numpy, XArray, Seaborn, Pingouin, and Matplotlib will help span the data analysis path between processed neuroscience data and final results.
+# Description
+#### Hi, Copied form Nick.
+
+In this **hands-on** workshop, we will explore the Python and Pandas data analysis ecosystem in depth, applying them to data analysis of a real-world electrophysiology neuroscience experiment! Collaboration sessions see participants working in small teams, collaborating to learn new skills and share their perspectives in a diverse environment.  Libraries like Numpy, XArray, Seaborn, Pingouin, and Matplotlib will help span the data analysis path between processed neuroscience data and final results.
+
 
 At the end of each session, all interactive Jupyter notebooks that explore the tools introduced that day will be available for further independent learning and review, with teachers available to answer questions. People of all skill levels, experiences, and backgrounds are welcome!
 

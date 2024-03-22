@@ -10,7 +10,7 @@ Teachers:
 
 
 # Description
-#### Hi, Nick is really nice!!
+#### Hi, wlcome to learn some cool stuffs with me
 
 
 
